@@ -1,0 +1,5 @@
+.navbar {
+  &__list {
+    @apply flex w-3/12 justify-around items-center;
+  }
+}
