@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "cdfe47b31e9184a55cf02eef1baf7240",
-    "url": "/static/media/Azonix.cdfe47b3.otf"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat.ee653992.ttf"
+  },
+  {
+    "revision": "cdfe47b31e9184a55cf02eef1baf7240",
+    "url": "/static/media/Azonix.cdfe47b3.otf"
   },
   {
     "revision": "c6b41c4cd1e288c30095fa886316af64",
