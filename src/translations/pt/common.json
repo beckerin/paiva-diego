@@ -1,0 +1,47 @@
+{
+  "navbar": {
+    "home": "Inicío",
+    "projects": "Projetos",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "home": {
+    "myName": "Diego Paiva",
+    "myTitle": "Um Programador Full-Stack"
+  },
+  "projects": {
+    "title": "Projetos",
+    "techs": "Techs Usadas",
+    "goTo": "Visitar Projeto",
+    "badges": "Pequeno icone do {{badge}}",
+    "images": "Página principal do(a) {{name}}",
+
+    "ndapp": {
+      "title": "nDapp",
+      "description": "Uma plataforma descentralizada de demonstração de dados sobre dapps de uma rede blockchain chamada Neo (N3)"
+    },
+    "sharity": {
+      "title": "Sharity",
+      "description": "Uma plataforma para contribuição monetária para clientes e usuários, a plataforma oferece meios de pagamentos recorrentes como assinatura, ou como pagamento simples."
+    },
+    "itrack": {
+      "title": "iTrack",
+      "description": "Site que tem como objetivo cadastrar cargas a serem rastreadas em tempo real, possui uma grande variedades de cargas a serem rastreadas."
+    },
+    "eucatur": {
+      "title": "Eucatur",
+      "description": "Site de pagamentos via link, que tratava todo o trafégo de pagamento e redicionava diferentes cartões a diferentes endpoints."
+    }
+  },
+  "about": {
+    "title": "Sobre min",
+    "description": "Sou um jovem de {{years}} anos que tem atuado na área de desenvolvimento web. A ideia partiu de uma fagulha inicial no ensino médio (3º ciclo) devido a grande disponibilidade de vagas no mercado de trabalho, a partir de cursos profissionalizantes aprimorei meus conhecimentos a ponto de ser reconhecido e convidado a trabalhar para algumas empresas da minha antiga região. Através de aprendizagem contínua, continuo aprendendo novas ferramentas e maneiras diferentes de resolver problemas."
+  },
+  "contact": {
+    "title": "Me Contate"
+  },
+  "footer": {
+    "description": "Criado com muito carinho - ",
+    "designer": "Layout desenvolvido por - "
+  }
+}

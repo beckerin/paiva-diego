@@ -1,40 +1,35 @@
-import React from "react"
-import NavbarLogo from "./NavbarLogo"
-import NavbarList from "./NavbarList"
-import { useState } from "react"
+import React from "react";
+import NavbarLogo from "./NavbarLogo";
+import NavbarList from "./NavbarList";
 
 export default () => {
   const menus = [
     {
       id: "item1",
-      title: "Inicio",
+      title: "navbar.home",
       route: "home",
-      isActive: true
     },
     {
       id: "item2",
-      title: "Projetos",
+      title: "navbar.projects",
       route: "projects",
-      isActive: false
     },
     {
       id: "item3",
-      title: "Sobre",
+      title: "navbar.about",
       route: "about",
-      isActive: false
     },
     {
       id: "item4",
-      title: "Contato",
+      title: "navbar.contact",
       route: "contact",
-      isActive: false
-    }
-  ]
+    },
+  ];
 
   return (
     <div className="navbar bg-stone-800 md:px-16 px-4 sticky top-0 z-10 px-auto flex justify-between">
       <NavbarLogo />
       <NavbarList items={menus} />
     </div>
-  )
-}
+  );
+};
