@@ -4,6 +4,8 @@ import { useTranslation } from "react-i18next";
 
 export default (props: any) => {
   const item = props.item;
+  const isMenuLink = props.isMenuLink;
+  const setIsMenuLink = props.setIsMenuLink;
   const classes = props.className
     ? "navbar__item " + props.className
     : "navbar__item";
@@ -12,7 +14,13 @@ export default (props: any) => {
 
   return (
     <li>
-      <Link href={"#" + item.route} target="_self" className={classes}>
+      <Link
+        href={"#" + item.route}
+        target="_self"
+        className={classes}
+        isMenuLink={isMenuLink}
+        setIsMenuLink={setIsMenuLink}
+      >
         {t(item.title)}
       </Link>
     </li>
