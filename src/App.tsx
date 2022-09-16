@@ -68,12 +68,6 @@ export default function App() {
                 @DiegoPaiva
               </Link>
             </div>
-            <div className="font-xl mb-8">
-              {t("footer.designer")}
-              <Link href="https://williammelodesign.com.br/" target="_blank">
-                @WilliamMelo
-              </Link>
-            </div>
           </div>
         </Container>
       </div>
