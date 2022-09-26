@@ -1,47 +1,50 @@
 {
-  "navbar": {
-    "home": "Home",
-    "projects": "Projects",
-    "about": "About",
-    "contact": "Contact"
-  },
-  "home": {
-    "myName": "Diego Paiva",
-    "myTitle": "A Full-Stack Web Programmer"
-  },
-  "projects": {
-    "title": "Projects",
-    "techs": "Used techs",
-    "goTo": "Look project",
-    "badges": "{{badge}} little icon",
-    "images": "{{name}} main site image",
-
-    "ndapp": {
-      "title": "nDapp",
-      "description": "A decentralized data demonstration platform about dapps from a blockchain network called Neo (N3)"
+    "navbar": {
+        "home": "Home",
+        "projects": "Projects",
+        "about": "About",
+        "contact": "Contact"
     },
-    "sharity": {
-      "title": "Sharity",
-      "description": "A platform for monetary contribution to customers and users, the platform offers means of recurring payments as a subscription, or as a one-time payment."
+    "home": {
+        "myName": "Diego Paiva",
+        "myTitle": "A Full-Stack Web Programmer"
     },
-    "itrack": {
-      "title": "iTrack",
-      "description": "Website that aims to register loads to be tracked in real time, has a wide variety of loads to be tracked."
+    "projects": {
+        "title": "Projects",
+        "techs": "Used techs",
+        "goTo": "Look project",
+        "badges": "{{badge}} little icon",
+        "images": "{{name}} main site image",
+        "infocasa": {
+            "title": "InfoCasa / DataCasa",
+            "description": "A paid real estate platform based in Portugal with a branch in Spain, demonstrates several useful tools for the real estate industry."
+        },
+        "ndapp": {
+            "title": "nDapp",
+            "description": "A decentralized data demonstration platform about dapps from a blockchain network called Neo (N3)"
+        },
+        "sharity": {
+            "title": "Sharity",
+            "description": "A platform for monetary contribution to customers and users, the platform offers means of recurring payments as a subscription, or as a one-time payment."
+        },
+        "itrack": {
+            "title": "iTrack",
+            "description": "Website that aims to register loads to be tracked in real time, has a wide variety of loads to be tracked."
+        },
+        "eucatur": {
+            "title": "Eucatur",
+            "description": "Link payments website, which handled all payment traffic and redirected different cards to different endpoints."
+        }
     },
-    "eucatur": {
-      "title": "Eucatur",
-      "description": "Link payments website, which handled all payment traffic and redirected different cards to different endpoints."
+    "about": {
+        "title": "About me",
+        "description": "I am a {{years}} year old Brazilian who has been working in the web development field. The idea came from an initial spark in high school (3rd cycle) due to the wide availability of vacancies in the job market, from professional courses I improved my knowledge to the point of being recognized and invited to work for some companies in my old region. Through continuous learning, I keep learning new tools and different ways to solve problems."
+    },
+    "contact": {
+        "title": "Contact me"
+    },
+    "footer": {
+        "description": "Made with love - ",
+        "designer": "Layout by - "
     }
-  },
-  "about": {
-    "title": "About me",
-    "description": "I am a {{years}} year old Brazilian who has been working in the web development field. The idea came from an initial spark in high school (3rd cycle) due to the wide availability of vacancies in the job market, from professional courses I improved my knowledge to the point of being recognized and invited to work for some companies in my old region. Through continuous learning, I keep learning new tools and different ways to solve problems."
-  },
-  "contact": {
-    "title": "Contact me"
-  },
-  "footer": {
-    "description": "Made with love - ",
-    "designer": "Layout by - "
-  }
 }

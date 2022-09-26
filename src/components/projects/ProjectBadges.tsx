@@ -10,6 +10,11 @@ export default (props: any) => {
         "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white",
     },
     {
+      name: "Razor",
+      src:
+        "https://img.shields.io/badge/Razor-%2300f.svg?style=for-the-badge&logo=razor&logoColor=white",
+    },
+    {
       name: "Angular",
       src:
         "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white",

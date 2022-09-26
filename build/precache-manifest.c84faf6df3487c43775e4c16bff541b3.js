@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "94027782e46bdd0a8379",
-    "url": "/static/css/main.b5869ece.chunk.css"
+    "revision": "f56201a296846055c3ed",
+    "url": "/static/css/main.4e0cbda4.chunk.css"
   },
   {
-    "revision": "94027782e46bdd0a8379",
-    "url": "/static/js/main.94027782.chunk.js"
+    "revision": "f56201a296846055c3ed",
+    "url": "/static/js/main.f56201a2.chunk.js"
   },
   {
     "revision": "af6a4d8865ba28b45d9b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/Montserrat.ee653992.ttf"
   },
   {
-    "revision": "735b3735939a2104d189ad4164b24fa1",
+    "revision": "1830b2f27500c27ad91aa5a3af45a28c",
     "url": "/index.html"
   }
 ];

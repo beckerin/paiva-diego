@@ -16,6 +16,10 @@
     "badges": "Pequeno icone do {{badge}}",
     "images": "Página principal do(a) {{name}}",
 
+    "infocasa": {
+      "title": "InfoCasa / DataCasa",
+      "description": "Uma plataforma imobiliaria paga com sede em portugal com filial na espanha, demonstra várias ferramentas uteis ao ramo imobiliaria."
+    },
     "ndapp": {
       "title": "nDapp",
       "description": "Uma plataforma descentralizada de demonstração de dados sobre dapps de uma rede blockchain chamada Neo (N3)"
