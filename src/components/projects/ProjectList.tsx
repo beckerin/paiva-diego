@@ -17,7 +17,20 @@ export default (props: any) => {
                 "GitHub",
             ],
             srcLink: "https://infocasa.pt/",
-        }, {
+        },
+        {
+            name: "paivadiego",
+            srcImage: "paivadiego.png",
+            techs: [
+                "React",
+                "TailwindCSS",
+                "TypeScript",
+                "HTML5",
+                "GitHub",
+            ],
+            srcLink: "https://paivadiego.com.br/",
+        },
+        {
             name: "ndapp",
             srcImage: "ndapp.png",
             techs: [

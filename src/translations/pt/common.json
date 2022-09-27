@@ -15,10 +15,13 @@
     "goTo": "Visitar Projeto",
     "badges": "Pequeno icone do {{badge}}",
     "images": "Página principal do(a) {{name}}",
-
     "infocasa": {
       "title": "InfoCasa / DataCasa",
       "description": "Uma plataforma imobiliaria paga com sede em portugal com filial na espanha, demonstra várias ferramentas uteis ao ramo imobiliaria."
+    },
+    "paivadiego": {
+        "title": "Personal Portfolio",
+        "description": "Um portofolio simples apenas para a demonstração de projetos feitos pelo min mesmo."
     },
     "ndapp": {
       "title": "nDapp",

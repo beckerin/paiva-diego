@@ -19,6 +19,10 @@
             "title": "InfoCasa / DataCasa",
             "description": "A paid real estate platform based in Portugal with a branch in Spain, demonstrates several useful tools for the real estate industry."
         },
+        "paivadiego": {
+            "title": "Personal Portfolio",
+            "description": "A simple portfolio just for the demonstration of projects made by myself."
+        },
         "ndapp": {
             "title": "nDapp",
             "description": "A decentralized data demonstration platform about dapps from a blockchain network called Neo (N3)"
