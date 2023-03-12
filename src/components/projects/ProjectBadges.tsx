@@ -5,6 +5,11 @@ export default (props: any) => {
   const { t } = useTranslation("common");
   const techsAvailable = [
     {
+      name: "BootStrap",
+      src:
+        "https://img.shields.io/badge/bootstap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white",
+    },
+    {
       name: "MySQL",
       src:
         "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white",
