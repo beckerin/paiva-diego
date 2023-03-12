@@ -6,6 +6,19 @@ export default (props: any) => {
     const { t, i18n } = useTranslation("common");
     const projects = [
         {
+            name: "Amplifica",
+            srcImage: "amplifica.png",
+            techs: [
+                "VueJS",
+                "BootStrap",
+                "TypeScript",
+                "HTML5",
+                "CSS3",
+                "GitHub",
+            ],
+            srcLink: "https://amplifica.eu/",
+        },
+        {
             name: "infocasa",
             srcImage: "infocasa.png",
             techs: [
