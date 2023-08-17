@@ -15,6 +15,10 @@
         "goTo": "Look project",
         "badges": "{{badge}} little icon",
         "images": "{{name}} main site image",
+        "amplifica": {
+            "title": "Amplifica",
+            "description": "A tool used to simplify the workflow on the education system inside the europe between students and companies. It's a project sponsored by the European continent"
+        },
         "infocasa": {
             "title": "InfoCasa / DataCasa",
             "description": "A paid real estate platform based in Portugal with a branch in Spain, demonstrates several useful tools for the real estate industry."
