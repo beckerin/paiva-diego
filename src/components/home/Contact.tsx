@@ -16,21 +16,6 @@ export default () => {
       href: "https://github.com/beckerin",
       icon: "github",
     },
-    {
-      id: 3,
-      title: "Telegram",
-      href: "https://t.me/paiva97",
-      icon: "telegram",
-      size: "md:h-32 md:w-32 h-16 w-16 mt-1",
-    },
-    {
-      id: 4,
-      title: "Email",
-      href:
-        "mailto:contato@paivadiego.com.br?subject=Ol%C3%A1%20Diego%2C%20gostaria%20de%20falar%20contigo!&body=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20seus%20trabalho!!%0D%0A",
-      icon: "mail",
-      size: "md:h-28 md:w-28 h-14 w-14 md:mt-3 mt-2 md:ml-2 ml-1",
-    },
   ];
 
   return (
